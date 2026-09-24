@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "affects": [
+    {
+      "type": 39,
+      "clientType": 39,
+      "sourceItemUid": "89e4e9f7f37b4d7cad9b9bf310912df6",
+      "sourceItemIndex": 4144,
+      "expiresUnix": 1789244175
+    }
+  ],
+  "specialCoins": {
+    "donate": 1100
+  }
+}

@@ -1,0 +1,9 @@
+prefix=/src/third_party/dxvk-native-aarch64/usr
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: dxvk_dxgi
+Description: dxvk: dxvk_dxgi
+Version: 3.0.2
+Libs: -L${libdir} -ldxvk_dxgi
+Cflags: -I${includedir}/dxvk

@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "affects": [
+    {
+      "type": 30,
+      "clientType": 30,
+      "value": 1,
+      "level": 2000,
+      "sourceItemUid": "46c4f3b193784d539605e03994605efd",
+      "sourceItemIndex": 3378,
+      "expiresUnix": 1791428660
+    },
+    {
+      "type": 4,
+      "clientType": 4,
+      "value": 10,
+      "sourceItemUid": "4310907b5afe4f9eb3b2203038996603",
+      "sourceItemIndex": 3363,
+      "expiresUnix": 1791428661
+    },
+    {
+      "type": 35,
+      "clientType": 35,
+      "value": 10,
+      "sourceItemUid": "6b9a4e69d51e46249d8f002581fb730c",
+      "sourceItemIndex": 3366,
+      "expiresUnix": 1791428698
+    }
+  ],
+  "specialCoins": {
+    "donate": 11000,
+    "game_medal_gold": 1
+  }
+}
